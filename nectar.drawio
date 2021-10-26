@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-26T15:06:31.300Z" agent="5.0 (Windows)" etag="ntXf5F8WecZj-UA2mH9D" version="15.5.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-26T15:09:39.072Z" agent="5.0 (Windows)" etag="4U0Lr4O7IgZv7Yv-T_98" version="15.5.9" type="github">
   <diagram id="8YqIMfpL829U5RsQXM55" name="Page-1">
     <mxGraphModel dx="1422" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -18,6 +18,9 @@
         </mxCell>
         <mxCell id="59RgPimpkNGIuj0bkft7-3" value="DNS" style="whiteSpace=wrap;html=1;aspect=fixed;align=center;" vertex="1" parent="1">
           <mxGeometry x="320" y="80" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="59RgPimpkNGIuj0bkft7-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="59RgPimpkNGIuj0bkft7-8" target="59RgPimpkNGIuj0bkft7-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="59RgPimpkNGIuj0bkft7-8" value="Server" style="whiteSpace=wrap;html=1;aspect=fixed;align=center;" vertex="1" parent="1">
           <mxGeometry x="80" y="280" width="80" height="80" as="geometry" />
@@ -49,7 +52,7 @@
         <mxCell id="59RgPimpkNGIuj0bkft7-23" value="Cranberry Script runs and could modify content" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="360" y="200" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="59RgPimpkNGIuj0bkft7-26" value="" style="endArrow=none;html=1;rounded=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="59RgPimpkNGIuj0bkft7-8">
+        <mxCell id="59RgPimpkNGIuj0bkft7-26" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="59RgPimpkNGIuj0bkft7-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="410" as="sourcePoint" />
             <mxPoint x="140" y="240" as="targetPoint" />
